@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<data>
+    <file name="Journal">
+        <name>Journal.txt</name>
+        <openwith>gedit</openwith>
+        <path>/home/aaron/Documents/</path>
+        <backup>1</backup>
+    </file>
+    <file name="Journal - open with Word">
+        <name>Journal.txt</name>
+        <openwith>/usr/share/playonlinux/playonlinux --run 'Microsoft Word 2010'</openwith>
+        <path>/home/aaron/Documents/</path>
+        <backup>1</backup>
+    </file>
+    <file name="Example document">
+        <name>Example\ document.doc</name>
+        <openwith>lowriter</openwith>
+        <path>/home/aaron/Documents/</path>
+        <backup>0</backup>
+    </file>
+    <file name="Example document - open with Word">
+        <name>Example\ document.doc</name>
+        <openwith>/usr/share/playonlinux/playonlinux --run 'Microsoft Word 2010'</openwith>
+        <path>/home/aaron/Documents/</path>
+        <backup>0</backup>
+    </file>
+    <file name="info.xml">
+        <name>info.xml</name>
+        <openwith>gedit</openwith>
+        <path>/home/aaron/Dropbox/Caltech/FA_2013/Winter_Break/writing_blind/</path>
+        <backup>0</backup>
+    </file>
+</data>
