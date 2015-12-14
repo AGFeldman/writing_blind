@@ -1,3 +1,5 @@
+*This is no longer maintained. See https://github.com/AGFeldman/rpad for the next version.* 
+
 The main feature of this script is that it allows you to write personal notes without the writing appearing on-screen. I run this script from a hotkey when I'm at college.
 
 The script also makes sure that the files you use it with are encrypted at all times when you're not editing the files, and it can send a backup of the encrypted file to a different folder when you're done editing.
